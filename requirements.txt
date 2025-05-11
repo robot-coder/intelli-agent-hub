@@ -1,0 +1,8 @@
+llama-index
+mcp-server-client
+playwright
+networkx
+matplotlib
+pyttsx3
+openai
+requests
